@@ -11,3 +11,6 @@ Também auxiliei na integração do backend com a base de dados, criando as pág
 A base de dados possui diversas tabelas necessárias para o funcionamento desse tipo de site.
 
 Neste repositório está a pasta com todo o projeto, incluindo todos os arquivos e imagens.
+
+![image](https://github.com/user-attachments/assets/f3e6a46d-1e90-4bed-b46f-3168435a9b33)
+
